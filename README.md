@@ -9,7 +9,7 @@ Welcome to my personal portfolio repository. Here you'll find a collection of pr
 
 
 ## Python Projects
-1. [Histopathology Image Analysis with Deep Learning](https://github.com/juliusc1/Histopathology-Image-Analysis-with-Deep-Learning)
+1. [Histopathology Image Analysis with Deep Learning](https://github.com/juliusc1/Histopathology-Image-Analysis-with-Deep-Learning): This project attempts to use deep learning techniques to analyze and predict if patients are positive or negative for invasive ductal carcinoma (IDC) from histopathology images. I also compared the performance of three different models to determine which architecture produced the highest accuracy and AUC for IDC classification.
 
 2. Trasnfer Learning - Image Classification
    
