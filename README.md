@@ -1,6 +1,6 @@
 # Julius Chang — Project Portfolio
 
-Welcome to my project portfolio! This repository highlights a collection of my work in computer science, machine learning, data analysis, and software engineering. Each project folder includes its own README, code, and explanations.
+Welcome to my personal portfolio repository. Here you'll find a collection of projects I've worked on, showcasing my skills and expertise in database management, data analysis, and data manipulation using Python and SQL. 
 
 ---
 
