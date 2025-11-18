@@ -1,4 +1,4 @@
-# Julius Chang — Project Portfolio
+## Julius Chang — Project Portfolio
 
 Welcome to my personal portfolio repository. Here you'll find a collection of projects I've worked on, showcasing my skills and expertise in database management, data analysis, and data manipulation using Python and SQL. 
 
