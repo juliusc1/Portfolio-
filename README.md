@@ -14,7 +14,7 @@ I graduated from the University of California, Santa Cruz with a B.S. in Biomole
 |---------------------------|----------------------------------------------------------------------------------|
 | **Machine Learning**      | Logistic Regression, SVM, PCA, ICA, Random Forest, CNNs, Vision Transformers     |
 | **Deep Learning**         | PyTorch, TensorFlow/Keras                                                        |
-| **Data Analysis & Processing** | SQL, ETL, Data Cleaning, Pandas, NumPy                                      |
+| **Data Analysis & Processing** | SQL, ETL, Data Cleaning, Pandas, NumPy, Excel                               |
 | **Visualization**         | Matplotlib, Tableau, Seaborn                                                     |
 | **Databases**             | Normalization, Schema Design, Relational Algebra, ER Modeling                    |
 
