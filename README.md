@@ -16,7 +16,6 @@ I graduated from the University of California, Santa Cruz with a B.S. in Biomole
 | **Deep Learning**         | PyTorch, TensorFlow/Keras                                                        |
 | **Data Analysis & Processing** | SQL, ETL, Data Cleaning, Pandas, NumPy, Excel                               |
 | **Visualization**         | Matplotlib, Tableau, Seaborn                                                     |
-| **Databases**             | Normalization, Schema Design, Relational Algebra, ER Modeling                    |
 
 ## Python Projects
 1. [Histopathology Image Analysis with Deep Learning](https://github.com/juliusc1/Histopathology-Image-Analysis-with-Deep-Learning): This project attempts to use deep learning techniques to analyze and predict if patients are positive or negative for invasive ductal carcinoma (IDC) from histopathology images. I also compared the performance of three different models to determine which architecture produced the highest accuracy and AUC for IDC classification.
